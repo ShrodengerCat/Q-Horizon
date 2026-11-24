@@ -1,0 +1,39 @@
+{
+  "vqc": [
+    {
+      "seed": 0,
+      "train_acc": 0.8333333333333334,
+      "test_acc": 0.83,
+      "fit_time_s": 21.841636657714844,
+      "n_params": 36
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.79,
+      "test_acc": 0.795,
+      "fit_time_s": 17.002317428588867,
+      "n_params": 36
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.795,
+      "test_acc": 0.75,
+      "fit_time_s": 16.727728128433228,
+      "n_params": 36
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.8183333333333334,
+      "test_acc": 0.765,
+      "fit_time_s": 18.197750091552734,
+      "n_params": 36
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.795,
+      "test_acc": 0.82,
+      "fit_time_s": 16.76227593421936,
+      "n_params": 36
+    }
+  ]
+}
