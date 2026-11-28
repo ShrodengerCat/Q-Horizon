@@ -1,0 +1,6 @@
+config,n_params,test_mean,test_std,train_mean,time_mean_s,train_test_gap
+1 layer,12,0.613,0.052,0.601,0.822,-0.012
+2 layers,24,0.699,0.017,0.729,1.451,0.03
+3 layers (main model),36,0.79,0.028,0.797,2.125,0.007
+4 layers,48,0.792,0.037,0.797,2.537,0.005
+"3 layers, no entanglement",36,0.737,0.036,0.749,1.52,0.012

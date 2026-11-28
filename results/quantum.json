@@ -2,37 +2,37 @@
   "vqc": [
     {
       "seed": 0,
-      "train_acc": 0.8333333333333334,
-      "test_acc": 0.83,
-      "fit_time_s": 21.841636657714844,
+      "train_acc": 0.795,
+      "test_acc": 0.82,
+      "fit_time_s": 2.313276767730713,
       "n_params": 36
     },
     {
       "seed": 1,
-      "train_acc": 0.79,
+      "train_acc": 0.7833333333333333,
       "test_acc": 0.795,
-      "fit_time_s": 17.002317428588867,
+      "fit_time_s": 2.056149959564209,
       "n_params": 36
     },
     {
       "seed": 2,
-      "train_acc": 0.795,
+      "train_acc": 0.8133333333333334,
       "test_acc": 0.75,
-      "fit_time_s": 16.727728128433228,
+      "fit_time_s": 2.201080322265625,
       "n_params": 36
     },
     {
       "seed": 3,
-      "train_acc": 0.8183333333333334,
-      "test_acc": 0.765,
-      "fit_time_s": 18.197750091552734,
+      "train_acc": 0.815,
+      "test_acc": 0.775,
+      "fit_time_s": 2.077333927154541,
       "n_params": 36
     },
     {
       "seed": 4,
-      "train_acc": 0.795,
-      "test_acc": 0.82,
-      "fit_time_s": 16.76227593421936,
+      "train_acc": 0.78,
+      "test_acc": 0.81,
+      "fit_time_s": 2.032601833343506,
       "n_params": 36
     }
   ]

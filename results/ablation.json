@@ -1,0 +1,187 @@
+{
+  "1 layer": [
+    {
+      "seed": 0,
+      "train_acc": 0.5783333333333334,
+      "test_acc": 0.675,
+      "fit_time_s": 0.8922252655029297,
+      "n_params": 12
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.61,
+      "test_acc": 0.64,
+      "fit_time_s": 0.8692128658294678,
+      "n_params": 12
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.64,
+      "test_acc": 0.61,
+      "fit_time_s": 0.785240888595581,
+      "n_params": 12
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.605,
+      "test_acc": 0.605,
+      "fit_time_s": 0.7738239765167236,
+      "n_params": 12
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.57,
+      "test_acc": 0.535,
+      "fit_time_s": 0.7917575836181641,
+      "n_params": 12
+    }
+  ],
+  "2 layers": [
+    {
+      "seed": 0,
+      "train_acc": 0.7433333333333333,
+      "test_acc": 0.69,
+      "fit_time_s": 1.410050868988037,
+      "n_params": 24
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.7116666666666667,
+      "test_acc": 0.72,
+      "fit_time_s": 1.4593138694763184,
+      "n_params": 24
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.745,
+      "test_acc": 0.675,
+      "fit_time_s": 1.445997714996338,
+      "n_params": 24
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.745,
+      "test_acc": 0.7,
+      "fit_time_s": 1.5215322971343994,
+      "n_params": 24
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.7016666666666667,
+      "test_acc": 0.71,
+      "fit_time_s": 1.4192886352539062,
+      "n_params": 24
+    }
+  ],
+  "3 layers (main model)": [
+    {
+      "seed": 0,
+      "train_acc": 0.795,
+      "test_acc": 0.82,
+      "fit_time_s": 2.21144437789917,
+      "n_params": 36
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.7833333333333333,
+      "test_acc": 0.795,
+      "fit_time_s": 2.096698045730591,
+      "n_params": 36
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.8133333333333334,
+      "test_acc": 0.75,
+      "fit_time_s": 2.0809545516967773,
+      "n_params": 36
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.815,
+      "test_acc": 0.775,
+      "fit_time_s": 2.1368536949157715,
+      "n_params": 36
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.78,
+      "test_acc": 0.81,
+      "fit_time_s": 2.0981593132019043,
+      "n_params": 36
+    }
+  ],
+  "4 layers": [
+    {
+      "seed": 0,
+      "train_acc": 0.8,
+      "test_acc": 0.825,
+      "fit_time_s": 2.567385673522949,
+      "n_params": 48
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.79,
+      "test_acc": 0.79,
+      "fit_time_s": 2.527514696121216,
+      "n_params": 48
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.8066666666666666,
+      "test_acc": 0.74,
+      "fit_time_s": 2.5263211727142334,
+      "n_params": 48
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.8166666666666667,
+      "test_acc": 0.775,
+      "fit_time_s": 2.515310525894165,
+      "n_params": 48
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.7733333333333333,
+      "test_acc": 0.83,
+      "fit_time_s": 2.5508296489715576,
+      "n_params": 48
+    }
+  ],
+  "3 layers, no entanglement": [
+    {
+      "seed": 0,
+      "train_acc": 0.75,
+      "test_acc": 0.775,
+      "fit_time_s": 1.4536328315734863,
+      "n_params": 36
+    },
+    {
+      "seed": 1,
+      "train_acc": 0.7116666666666667,
+      "test_acc": 0.725,
+      "fit_time_s": 1.4586117267608643,
+      "n_params": 36
+    },
+    {
+      "seed": 2,
+      "train_acc": 0.77,
+      "test_acc": 0.695,
+      "fit_time_s": 1.5242300033569336,
+      "n_params": 36
+    },
+    {
+      "seed": 3,
+      "train_acc": 0.7766666666666666,
+      "test_acc": 0.715,
+      "fit_time_s": 1.6046528816223145,
+      "n_params": 36
+    },
+    {
+      "seed": 4,
+      "train_acc": 0.735,
+      "test_acc": 0.775,
+      "fit_time_s": 1.5611369609832764,
+      "n_params": 36
+    }
+  ]
+}
